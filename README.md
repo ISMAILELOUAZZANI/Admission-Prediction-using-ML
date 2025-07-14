@@ -41,5 +41,3 @@ The dataset used is from [Kaggle - Graduate Admissions](https://www.kaggle.com/d
 - 📉 Matplotlib, Seaborn
 - 🧪 Jupyter Notebook or Streamlit (optional for dashboard)
 
-## 📁 Project Structure
-
